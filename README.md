@@ -1,7 +1,7 @@
 ## Hi there i'm Joan 👋
 
 🚧 I’m currently working on a big project  
-<img src="assets/Yuki-Nagato-typing.gif" alt="Yuki Nagato typing fast" width="40" />
+<img src="assets/Yuki-Nagato-typing.gif" alt="Yuki Nagato typing fast" width="400" />
 
 ---
 
